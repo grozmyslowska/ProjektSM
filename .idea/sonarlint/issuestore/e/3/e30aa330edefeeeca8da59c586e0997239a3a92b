@@ -1,0 +1,16 @@
+
+m
+java:S1301^"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ8ùÎÄŒ¸.
+n	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éØ²¯8ùÎÄŒ¸.
+E
+java:S16046"(Make this anonymous inner class a lambda(…Ş¢8ùÎÄŒ¸.
+
+java:S1488Ü"^Immediately return this expression instead of assigning it to the temporary variable "quotes".(Éë¦±øÿÿÿÿ8ùÎÄŒ¸.
+
+java:S1186A"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8ùÎÄŒ¸.
+£
+java:S1186E"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ê¥¾àûÿÿÿÿ8ùÎÄŒ¸.
+C	java:S131^""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8ùÎÄŒ¸.
+u	java:S116×"XRename this field "SearchingText" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¼™ˆ8ùÎÄŒ¸.
+]	java:S125P"<This block of commented-out lines of code should be removed.(ú»Ü›ûÿÿÿÿ8ùÎÄŒ¸.
+^	java:S125Ï"<This block of commented-out lines of code should be removed.(Æåşÿÿÿÿ8ùÎÄŒ¸.

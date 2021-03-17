@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cytaty</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="search">"Wyszukaj..."</string>
+    <string name="hint_content">Treść...</string>
+    <string name="hint_book_title">Tytuł książki...</string>
+    <string name="hint_book_author">Autor...</string>
+    <string name="button_save">Zapisz</string>
+    <string name="empty_not_saved">Cytat nie został zapisany z powodu pustych pól</string>
+    <string name="quote_added">Cytat dodany</string>
+    <string name="quote_updated">Cytat zaktualizowany</string>
+    <string name="task_add_new">Dodaj nowy cytat</string>
+    <string name="info">Pokaż informacje</string>
+    <string name="information1">Aplikacja została stworzona jako projekt z przedmiotu Systemy Mobilne na Politechnice Białostockiej</string>
+    <string name="information2">Developer: Gabriela Rozmysłowska</string>
+    <string name="information3">Kontakt: grozmyslowska@gmail.com</string>
+    <string name="button_take_photo">Zeskanuj ze zdjęcia</string>
+    <string name="web_page_button">Wyszukaj książkę</string>
+</resources>

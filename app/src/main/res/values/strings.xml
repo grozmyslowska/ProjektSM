@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">"Search..."</string>
+    <string name="hint_content">Content...</string>
+    <string name="hint_book_title">Title...</string>
+    <string name="hint_book_author">Author...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Quote not saved because there are empty fields</string>
+    <string name="quote_added">Quote added</string>
+    <string name="quote_updated">Quote updated</string>
+    <string name="task_add_new">Add new quote</string>
+    <string name="info">Show information</string>
+    <string name="information1">The application was created as a project for Mobile Systems course at Bialystok University of Technology</string>
+    <string name="information2">Developer: Gabriela Rozmysłowska</string>
+    <string name="information3">Contact: grozmyslowska@gmail.com</string>
+    <string name="button_take_photo">Scan from photo</string>
+    <string name="web_page_button">Search book in net</string>
+</resources>
